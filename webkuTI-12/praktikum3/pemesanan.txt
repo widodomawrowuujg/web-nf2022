@@ -1,0 +1,83 @@
+<!DOCTIPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-combatible content"IE=Edge
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Pemesanan Pizza</title>
+</head>
+<body>
+        
+
+</body>
+</html>
+<h1>Black Goose Bistro | Pizza-on-Demand</h1>
+<p>Our 12"wood-fired pizzas are available for delivery. Build your custom pizza and we'll deliver it within an hour.</p>
+<hr>
+
+    <body>
+
+        <h1>black Gouse bistor 1
+
+
+
+
+            <table>
+                <tr>
+                    <td>name</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </table>
+
+    <fieldset>
+        <legend>
+
+
+
+
+<h3>crust (choose one)</h3>
+               <ul>
+                <il>
+                    <input type="color"=radio"id=multi">
+                    classic white
+                </li>
+                <li>
+                    <input type="radio"
+                    <lebel for =multi"<multigrain</label
+                </li>
+                <li>
+                    <input type radio id="una"
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    <h3>toppings (choose as many as you want):</h3>
+                    </ul>
+                        <il>
+                            <input type="checkbox">
+                        white souce
